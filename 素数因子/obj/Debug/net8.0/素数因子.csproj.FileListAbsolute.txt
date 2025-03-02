@@ -1,0 +1,14 @@
+D:\C#_project\素数因子\bin\Debug\net8.0\素数因子.exe
+D:\C#_project\素数因子\bin\Debug\net8.0\素数因子.deps.json
+D:\C#_project\素数因子\bin\Debug\net8.0\素数因子.runtimeconfig.json
+D:\C#_project\素数因子\bin\Debug\net8.0\素数因子.dll
+D:\C#_project\素数因子\bin\Debug\net8.0\素数因子.pdb
+D:\C#_project\素数因子\obj\Debug\net8.0\素数因子.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\素数因子\obj\Debug\net8.0\素数因子.AssemblyInfoInputs.cache
+D:\C#_project\素数因子\obj\Debug\net8.0\素数因子.AssemblyInfo.cs
+D:\C#_project\素数因子\obj\Debug\net8.0\素数因子.csproj.CoreCompileInputs.cache
+D:\C#_project\素数因子\obj\Debug\net8.0\素数因子.dll
+D:\C#_project\素数因子\obj\Debug\net8.0\refint\素数因子.dll
+D:\C#_project\素数因子\obj\Debug\net8.0\素数因子.pdb
+D:\C#_project\素数因子\obj\Debug\net8.0\素数因子.genruntimeconfig.cache
+D:\C#_project\素数因子\obj\Debug\net8.0\ref\素数因子.dll

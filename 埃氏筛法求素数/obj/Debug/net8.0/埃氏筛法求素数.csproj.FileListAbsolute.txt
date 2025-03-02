@@ -1,0 +1,14 @@
+D:\C#_project\埃氏筛法求素数\bin\Debug\net8.0\埃氏筛法求素数.exe
+D:\C#_project\埃氏筛法求素数\bin\Debug\net8.0\埃氏筛法求素数.deps.json
+D:\C#_project\埃氏筛法求素数\bin\Debug\net8.0\埃氏筛法求素数.runtimeconfig.json
+D:\C#_project\埃氏筛法求素数\bin\Debug\net8.0\埃氏筛法求素数.dll
+D:\C#_project\埃氏筛法求素数\bin\Debug\net8.0\埃氏筛法求素数.pdb
+D:\C#_project\埃氏筛法求素数\obj\Debug\net8.0\埃氏筛法求素数.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\埃氏筛法求素数\obj\Debug\net8.0\埃氏筛法求素数.AssemblyInfoInputs.cache
+D:\C#_project\埃氏筛法求素数\obj\Debug\net8.0\埃氏筛法求素数.AssemblyInfo.cs
+D:\C#_project\埃氏筛法求素数\obj\Debug\net8.0\埃氏筛法求素数.csproj.CoreCompileInputs.cache
+D:\C#_project\埃氏筛法求素数\obj\Debug\net8.0\埃氏筛法求素数.dll
+D:\C#_project\埃氏筛法求素数\obj\Debug\net8.0\refint\埃氏筛法求素数.dll
+D:\C#_project\埃氏筛法求素数\obj\Debug\net8.0\埃氏筛法求素数.pdb
+D:\C#_project\埃氏筛法求素数\obj\Debug\net8.0\埃氏筛法求素数.genruntimeconfig.cache
+D:\C#_project\埃氏筛法求素数\obj\Debug\net8.0\ref\埃氏筛法求素数.dll
