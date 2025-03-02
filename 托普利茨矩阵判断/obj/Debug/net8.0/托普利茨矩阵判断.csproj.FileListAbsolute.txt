@@ -1,0 +1,14 @@
+D:\C#_project\托普利茨矩阵判断\bin\Debug\net8.0\托普利茨矩阵判断.exe
+D:\C#_project\托普利茨矩阵判断\bin\Debug\net8.0\托普利茨矩阵判断.deps.json
+D:\C#_project\托普利茨矩阵判断\bin\Debug\net8.0\托普利茨矩阵判断.runtimeconfig.json
+D:\C#_project\托普利茨矩阵判断\bin\Debug\net8.0\托普利茨矩阵判断.dll
+D:\C#_project\托普利茨矩阵判断\bin\Debug\net8.0\托普利茨矩阵判断.pdb
+D:\C#_project\托普利茨矩阵判断\obj\Debug\net8.0\托普利茨矩阵判断.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\托普利茨矩阵判断\obj\Debug\net8.0\托普利茨矩阵判断.AssemblyInfoInputs.cache
+D:\C#_project\托普利茨矩阵判断\obj\Debug\net8.0\托普利茨矩阵判断.AssemblyInfo.cs
+D:\C#_project\托普利茨矩阵判断\obj\Debug\net8.0\托普利茨矩阵判断.csproj.CoreCompileInputs.cache
+D:\C#_project\托普利茨矩阵判断\obj\Debug\net8.0\托普利茨矩阵判断.dll
+D:\C#_project\托普利茨矩阵判断\obj\Debug\net8.0\refint\托普利茨矩阵判断.dll
+D:\C#_project\托普利茨矩阵判断\obj\Debug\net8.0\托普利茨矩阵判断.pdb
+D:\C#_project\托普利茨矩阵判断\obj\Debug\net8.0\托普利茨矩阵判断.genruntimeconfig.cache
+D:\C#_project\托普利茨矩阵判断\obj\Debug\net8.0\ref\托普利茨矩阵判断.dll
