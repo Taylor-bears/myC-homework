@@ -1,0 +1,14 @@
+D:\C#_project\第三周_形状类\bin\Debug\net8.0\第三周_形状类.exe
+D:\C#_project\第三周_形状类\bin\Debug\net8.0\第三周_形状类.deps.json
+D:\C#_project\第三周_形状类\bin\Debug\net8.0\第三周_形状类.runtimeconfig.json
+D:\C#_project\第三周_形状类\bin\Debug\net8.0\第三周_形状类.dll
+D:\C#_project\第三周_形状类\bin\Debug\net8.0\第三周_形状类.pdb
+D:\C#_project\第三周_形状类\obj\Debug\net8.0\第三周_形状类.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\第三周_形状类\obj\Debug\net8.0\第三周_形状类.AssemblyInfoInputs.cache
+D:\C#_project\第三周_形状类\obj\Debug\net8.0\第三周_形状类.AssemblyInfo.cs
+D:\C#_project\第三周_形状类\obj\Debug\net8.0\第三周_形状类.csproj.CoreCompileInputs.cache
+D:\C#_project\第三周_形状类\obj\Debug\net8.0\第三周_形状类.dll
+D:\C#_project\第三周_形状类\obj\Debug\net8.0\refint\第三周_形状类.dll
+D:\C#_project\第三周_形状类\obj\Debug\net8.0\第三周_形状类.pdb
+D:\C#_project\第三周_形状类\obj\Debug\net8.0\第三周_形状类.genruntimeconfig.cache
+D:\C#_project\第三周_形状类\obj\Debug\net8.0\ref\第三周_形状类.dll
