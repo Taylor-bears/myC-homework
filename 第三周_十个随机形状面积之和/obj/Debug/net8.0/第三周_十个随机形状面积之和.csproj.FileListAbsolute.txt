@@ -1,0 +1,14 @@
+D:\C#_project\第三周_十个随机形状面积之和\bin\Debug\net8.0\第三周_十个随机形状面积之和.exe
+D:\C#_project\第三周_十个随机形状面积之和\bin\Debug\net8.0\第三周_十个随机形状面积之和.deps.json
+D:\C#_project\第三周_十个随机形状面积之和\bin\Debug\net8.0\第三周_十个随机形状面积之和.runtimeconfig.json
+D:\C#_project\第三周_十个随机形状面积之和\bin\Debug\net8.0\第三周_十个随机形状面积之和.dll
+D:\C#_project\第三周_十个随机形状面积之和\bin\Debug\net8.0\第三周_十个随机形状面积之和.pdb
+D:\C#_project\第三周_十个随机形状面积之和\obj\Debug\net8.0\第三周_十个随机形状面积之和.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\第三周_十个随机形状面积之和\obj\Debug\net8.0\第三周_十个随机形状面积之和.AssemblyInfoInputs.cache
+D:\C#_project\第三周_十个随机形状面积之和\obj\Debug\net8.0\第三周_十个随机形状面积之和.AssemblyInfo.cs
+D:\C#_project\第三周_十个随机形状面积之和\obj\Debug\net8.0\第三周_十个随机形状面积之和.csproj.CoreCompileInputs.cache
+D:\C#_project\第三周_十个随机形状面积之和\obj\Debug\net8.0\第三周_十个随机形状面积之和.dll
+D:\C#_project\第三周_十个随机形状面积之和\obj\Debug\net8.0\refint\第三周_十个随机形状面积之和.dll
+D:\C#_project\第三周_十个随机形状面积之和\obj\Debug\net8.0\第三周_十个随机形状面积之和.pdb
+D:\C#_project\第三周_十个随机形状面积之和\obj\Debug\net8.0\第三周_十个随机形状面积之和.genruntimeconfig.cache
+D:\C#_project\第三周_十个随机形状面积之和\obj\Debug\net8.0\ref\第三周_十个随机形状面积之和.dll
