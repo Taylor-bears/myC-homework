@@ -1,0 +1,14 @@
+D:\C#_project\第四周作业_闹钟_event练习\bin\Debug\net8.0\第四周作业_闹钟_event练习.exe
+D:\C#_project\第四周作业_闹钟_event练习\bin\Debug\net8.0\第四周作业_闹钟_event练习.deps.json
+D:\C#_project\第四周作业_闹钟_event练习\bin\Debug\net8.0\第四周作业_闹钟_event练习.runtimeconfig.json
+D:\C#_project\第四周作业_闹钟_event练习\bin\Debug\net8.0\第四周作业_闹钟_event练习.dll
+D:\C#_project\第四周作业_闹钟_event练习\bin\Debug\net8.0\第四周作业_闹钟_event练习.pdb
+D:\C#_project\第四周作业_闹钟_event练习\obj\Debug\net8.0\第四周作业_闹钟_event练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\第四周作业_闹钟_event练习\obj\Debug\net8.0\第四周作业_闹钟_event练习.AssemblyInfoInputs.cache
+D:\C#_project\第四周作业_闹钟_event练习\obj\Debug\net8.0\第四周作业_闹钟_event练习.AssemblyInfo.cs
+D:\C#_project\第四周作业_闹钟_event练习\obj\Debug\net8.0\第四周作业_闹钟_event练习.csproj.CoreCompileInputs.cache
+D:\C#_project\第四周作业_闹钟_event练习\obj\Debug\net8.0\第四周作业_闹钟_event练习.dll
+D:\C#_project\第四周作业_闹钟_event练习\obj\Debug\net8.0\refint\第四周作业_闹钟_event练习.dll
+D:\C#_project\第四周作业_闹钟_event练习\obj\Debug\net8.0\第四周作业_闹钟_event练习.pdb
+D:\C#_project\第四周作业_闹钟_event练习\obj\Debug\net8.0\第四周作业_闹钟_event练习.genruntimeconfig.cache
+D:\C#_project\第四周作业_闹钟_event练习\obj\Debug\net8.0\ref\第四周作业_闹钟_event练习.dll
