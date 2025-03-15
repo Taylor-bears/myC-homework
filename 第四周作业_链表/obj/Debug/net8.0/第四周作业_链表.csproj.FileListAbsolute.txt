@@ -1,0 +1,14 @@
+D:\C#_project\第四周作业_链表\bin\Debug\net8.0\第四周作业_链表.exe
+D:\C#_project\第四周作业_链表\bin\Debug\net8.0\第四周作业_链表.deps.json
+D:\C#_project\第四周作业_链表\bin\Debug\net8.0\第四周作业_链表.runtimeconfig.json
+D:\C#_project\第四周作业_链表\bin\Debug\net8.0\第四周作业_链表.dll
+D:\C#_project\第四周作业_链表\bin\Debug\net8.0\第四周作业_链表.pdb
+D:\C#_project\第四周作业_链表\obj\Debug\net8.0\第四周作业_链表.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\第四周作业_链表\obj\Debug\net8.0\第四周作业_链表.AssemblyInfoInputs.cache
+D:\C#_project\第四周作业_链表\obj\Debug\net8.0\第四周作业_链表.AssemblyInfo.cs
+D:\C#_project\第四周作业_链表\obj\Debug\net8.0\第四周作业_链表.csproj.CoreCompileInputs.cache
+D:\C#_project\第四周作业_链表\obj\Debug\net8.0\第四周作业_链表.dll
+D:\C#_project\第四周作业_链表\obj\Debug\net8.0\refint\第四周作业_链表.dll
+D:\C#_project\第四周作业_链表\obj\Debug\net8.0\第四周作业_链表.pdb
+D:\C#_project\第四周作业_链表\obj\Debug\net8.0\第四周作业_链表.genruntimeconfig.cache
+D:\C#_project\第四周作业_链表\obj\Debug\net8.0\ref\第四周作业_链表.dll
