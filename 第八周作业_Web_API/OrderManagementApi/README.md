@@ -1,3 +1,4 @@
+# 使用Postman
 ## 1 验证初始状态
 ![image](https://github.com/user-attachments/assets/dadad29e-21e9-43dd-aa80-719839f8e2ea)
 send URL后，Body正确显示JSON代码
